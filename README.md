@@ -2,7 +2,7 @@
 
 ## English
 
-This repository provides a reusable `AGENTS.md` instruction set for coding and research workflows.
+This repository provides a `AGENTS.md` instruction set for coding and research workflows.
 
 ### Purpose
 
@@ -22,11 +22,11 @@ See [`NOTICE`](./NOTICE) for attribution details.
 
 ## 한국어
 
-이 저장소는 코딩 및 연구 워크플로를 위한 재사용 가능한 `AGENTS.md` 지침 세트를 제공한다.
+이 저장소는 코딩 및 연구 워크플로우를 위한 `AGENTS.md` 지침 세트를 제공한다.
 
 ### 목적
 
-이 지침 세트는 프로젝트 단위의 `AGENTS.md` 파일을 읽는 에이전트형 코딩 환경을 염두에 두고 작성됨. 핵심 초점은 출처 정확성, 보수적인 코드 수정, UTF-8 기반 파일 처리, 그리고 실용적인 검증에 있음.
+이 지침 세트는 프로젝트 단위의 `AGENTS.md` 파일을 읽는 에이전트형 코딩 환경을 염두에 두고 작성됨. 핵심 초점은 출처 정확성, 보수적 코드 수정, UTF-8 기반 파일 처리, 그리고 실용적 검증에 있음.
 
 ### 사용 방법
 
