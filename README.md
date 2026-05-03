@@ -1,4 +1,4 @@
-﻿# AGENTS.md
+﻿# Custom instructions for Codex
 
 ## English
 
